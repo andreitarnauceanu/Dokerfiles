@@ -1,0 +1,6 @@
+[submodule "worker"]
+	path = worker
+	url = https://github.com/andreitarnauceanu/worker.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/andreitarnauceanu/webapp.git
